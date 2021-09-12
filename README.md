@@ -25,5 +25,5 @@ https://www.kaggle.com/leventoz/covid19-education-impact-survey
 
 ## Professor 👨‍🏫
 
-* José de Sousa 
+* José de Sousa Magalhães
 
