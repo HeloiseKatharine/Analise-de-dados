@@ -3,7 +3,7 @@
 #
 ## Descrição 💻
 
-A proposta deste trabalho é aplicar recursos úteis para a interpretação do dataset e extrair informações relevantes sobre um determinado tema.
+A proposta deste trabalho é aplicar recursos úteis para a interpretação do Dataset sobre o impacto da COVID-19 na educação infantil venezuelana e extrair informações relevantes sobre o tema.
 
 ## DataSet 🎲
 https://www.kaggle.com/leventoz/covid19-education-impact-survey
