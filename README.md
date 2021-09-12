@@ -15,11 +15,15 @@ https://www.kaggle.com/leventoz/covid19-education-impact-survey
 * PyMongo
 * Pandas
 * MatPloitLib
-
+ 
 ## Integrantes do grupo 👀
 
 * Heloise
 * Laisa
 * Renata
 * Felipe
+
+## Professor
+
+* José de Sousa 
 
