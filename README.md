@@ -23,7 +23,7 @@ https://www.kaggle.com/leventoz/covid19-education-impact-survey
 * Renata
 * Felipe
 
-## Professor
+## Professor 👨‍🏫
 
 * José de Sousa 
 
